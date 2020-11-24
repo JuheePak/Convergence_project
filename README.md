@@ -70,4 +70,6 @@
 
 5. 일정관리
 
-(추후 첨부)
+![New Sheet](https://user-images.githubusercontent.com/69948723/100039665-0a959e80-2e49-11eb-9b3a-f2bf1afc37a1.png)
+
+- 과제 진행 사항은 slack으로 파악
