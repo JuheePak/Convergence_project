@@ -59,25 +59,26 @@
 
 5. ##### 프로젝트 수행 도구
 
-- Bigdata
+- `Bigdata`
+  
   - Python(Selenium, Seaborn, Matplotlib, Folium, etc.)
   - Pyspark
   - MongoDB
-  - R
-
-- AI
+- R
+  
+- `AI`
 
   - AWS
   - 서버용 컴퓨터
   - Python
 
-- IoT
+- `IoT`
 
   - 통합개발도구: VSC, 안드로이드
   - 디바이스: 라즈베리파이, 아두이노
   - UI: CSS, Javascript
 
-- Cloud
+- `Cloud`
 
   - Django
 
