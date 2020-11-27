@@ -91,3 +91,11 @@
 ![New Sheet (1)](https://user-images.githubusercontent.com/69948723/100064282-a806c780-2e75-11eb-894a-a260b75b374d.png)
 
 - 과제 진행 사항은 slack으로 파악
+
+
+
+7. ##### 프로젝트 아키텍쳐
+
+   ![아키텍쳐](https://user-images.githubusercontent.com/69948723/100422927-85bbb680-30ce-11eb-972c-2efd84f218aa.png)
+
+   
