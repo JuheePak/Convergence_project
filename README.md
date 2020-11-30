@@ -90,7 +90,7 @@
 
 ![New Sheet (1)](https://user-images.githubusercontent.com/69948723/100064282-a806c780-2e75-11eb-894a-a260b75b374d.png)
 
-- 과제 진행 사항은 slack으로 파악
+- 각 팀원의 진행 상황은 slack을 통해 파악
 
 
 
