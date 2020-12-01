@@ -100,7 +100,7 @@
 
    
 
-8. ##### 서비스 제공 흐름도
+8. ##### 안드로이드 어플리케이션 서비스 제공 흐름도
 
 ![서비스제공흐름도1](https://user-images.githubusercontent.com/69948723/100541517-cad71880-3287-11eb-8e22-8273e63c3866.png)
 ![서비스제공흐름도2](https://user-images.githubusercontent.com/69948723/100541519-cdd20900-3287-11eb-918d-81c2aa97ee64.png)
