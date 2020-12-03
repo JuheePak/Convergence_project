@@ -86,7 +86,7 @@
 
     
 
-6. ##### 일정관리
+6. ##### WBS 수정예정
 
 ![New Sheet (1)](https://user-images.githubusercontent.com/69948723/100064282-a806c780-2e75-11eb-894a-a260b75b374d.png)
 
