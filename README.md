@@ -86,9 +86,9 @@
 
     
 
-6. ##### WBS 수정예정
+6. ##### WBS
 
-![New Sheet (1)](https://user-images.githubusercontent.com/69948723/100064282-a806c780-2e75-11eb-894a-a260b75b374d.png)
+![WBS](https://user-images.githubusercontent.com/69948723/101310885-6faeb280-3893-11eb-8770-087d945bf4b5.png)
 
 - 각 팀원의 진행 상황은 slack을 통해 파악
 
