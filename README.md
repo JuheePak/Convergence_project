@@ -26,8 +26,6 @@
 
     [LabelImg 설치 및 사용법 (tistory.com)](https://goodkimday.tistory.com/26) 참고
 
-  - IoT에서 받은 열, 가스 센서 데이터 전처리
-
   - 해당 시스템 도입 입지 선정 및 지도 시각화
 
     (소방청 연간화재통계 데이터, 기상청 기상관측 데이터)
