@@ -88,7 +88,7 @@
 
 6. ##### WBS
 
-![WBS](https://user-images.githubusercontent.com/69948723/101310885-6faeb280-3893-11eb-8770-087d945bf4b5.png)
+![New Sheet](https://user-images.githubusercontent.com/69948723/102675205-da3ce800-41db-11eb-9bae-a165f13d0b25.png)
 
 - 각 팀원의 진행 상황은 slack을 통해 파악
 
@@ -96,7 +96,7 @@
 
 7. ##### 프로젝트 아키텍쳐
 
-   ![아키텍쳐](https://user-images.githubusercontent.com/69948723/100422927-85bbb680-30ce-11eb-972c-2efd84f218aa.png)
+   ![KakaoTalk_20201217_175722696](https://user-images.githubusercontent.com/69948723/102675253-048ea580-41dc-11eb-8dfb-21fd2dea828b.png)
 
    
 
