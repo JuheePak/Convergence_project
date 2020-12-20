@@ -62,7 +62,6 @@
   
   - Python(Selenium, Seaborn, Matplotlib, Folium, etc.)
   - Pyspark
-  - MongoDB
   - R
 - `AI`
 
