@@ -22,9 +22,10 @@
 
 - `Bigdata`
 
-  - IoT에서 받은 불꽃 감지 학습을 위한 이미지 데이터 수집/전처리(전처리는 AI반과 같이 진행)
+  - IoT에서 받은 불꽃 감지 학습을 위한 이미지 데이터 수집, 라벨링(라벨링은 AI반과 같이 진행)
 
-    [LabelImg 설치 및 사용법 (tistory.com)](https://goodkimday.tistory.com/26) 참고
+    - [LabelImg 설치 및 사용법 (tistory.com)](https://goodkimday.tistory.com/26) 참고
+    - fire/non-fire 이미지 수집
 
   - 해당 시스템 도입 입지 선정 및 지도 시각화
 
