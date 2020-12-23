@@ -84,6 +84,8 @@
 
   - AWS
 
+  - DynamoDB
+  
     
 
 6. ##### WBS
