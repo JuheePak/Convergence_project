@@ -100,7 +100,7 @@
 
 7. ##### 프로젝트 아키텍쳐
 
-   ![KakaoTalk_20201217_175722696](https://user-images.githubusercontent.com/69948723/102675253-048ea580-41dc-11eb-8dfb-21fd2dea828b.png)
+   ![그림1](https://user-images.githubusercontent.com/69948723/103437692-c37fa200-4c6d-11eb-830b-5a0c5b3df2ab.png)
 
    
 
