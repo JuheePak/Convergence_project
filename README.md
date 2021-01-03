@@ -73,8 +73,8 @@
 
 - `IoT`
 
-  - 통합개발도구: VSC, 안드로이드
-  - 디바이스: 라즈베리파이, 아두이노
+  - 통합개발도구: VSC, Android Studio
+  - 디바이스: Raspberry Pi, Arduino
   - UI: CSS, Javascript
 
 - `Cloud`
